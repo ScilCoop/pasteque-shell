@@ -63,3 +63,6 @@ target/
 
 #intelij
 .idea
+
+#Config file
+config.json
